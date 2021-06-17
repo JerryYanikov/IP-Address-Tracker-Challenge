@@ -22,8 +22,6 @@ searchButton.addEventListener('click', function (e) {
                 deflng = data.location.lng;
                 defzoom = 15;
                 initMap();
-                // infoBox.innerText = 'Wrong Input';
-                // infoBox.innerHTML = style.fontSize = "2rem";
             }
         );
 });
